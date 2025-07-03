@@ -1,2 +1,2 @@
 # git-test
-testing different options of git and github
+Testing different thing
